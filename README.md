@@ -18,10 +18,11 @@ https://github.com/thedmd/pianobar-windows-build
 
 CONFIGURATION
 
-Pianobar use configuration file. Under Windows this file is named pianobar.cfg
-and should be placed next to pianobar.exe.
-On reporitory there is an example configuration file, you may copy or rename it.
-Then edit it and fill marked fields relevant to you and remove remaining.
+Pianobar uses a configuration file. Under Windows this file is named pianobar.cfg
+and should be placed in the same directory as pianobar.exe.
+There is an example configuration file in the repository you can copy or rename.
+Edit it and fill in the marked fields relevant to you, then remove or comment out
+those remaining.
 
 Note that non-US users have to have configuration file with control proxy
 details set.
