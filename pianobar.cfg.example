@@ -1,6 +1,9 @@
 # Uncomment the control_proxy line if you would like to set up a proxy connection for pianobar
 #control_proxy = http://<proxy_user>:<proxy_pass>@<proxy_address>:<proxy_port>
 
+# Uncomment the autoselect line to automatically start playing most recent station
+# autoselect = 1
+
 user = <pandora_user>
 password = <pandora_password>
 
