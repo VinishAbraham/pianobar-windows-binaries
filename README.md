@@ -33,3 +33,7 @@ GLOBALPANDORA.COM
 If you're behind proxy please look into pianobar.cfg.example and copy necessary
 settings to your own configuration file. This are necessary, because
 globalpandora.com does not support server used in by pianobar.
+
+Forked From : https://github.com/thedmd/pianobar-windows-binaries
+
+Credit: https://github.com/thedmd

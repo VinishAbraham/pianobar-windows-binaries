@@ -4,8 +4,8 @@
 # Uncomment the autoselect line to automatically start playing most recent station
 # autoselect = 1
 
-user = <pandora_user>
-password = <pandora_password>
+user = email_for_pandora
+password = password_for_pandora
 
 width = 220
 height = 60
